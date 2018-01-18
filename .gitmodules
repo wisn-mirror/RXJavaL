@@ -1,0 +1,3 @@
+[submodule "library/utils"]
+	path = library/utils
+	url = https://github.com/wisn-mirror/AndroidUtils.git
